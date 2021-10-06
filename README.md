@@ -1,3 +1,3 @@
 # Chess with simple AI
 
-![](./images/chessgame.png)
+![](./images/chessgame.PNG)
