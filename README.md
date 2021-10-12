@@ -1,3 +1,3 @@
-# Chess with simple AI (work in progress)
+# Chess with simple AI (almost finished)
 
 ![](./images/chessgame.PNG)
